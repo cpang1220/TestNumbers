@@ -14,7 +14,7 @@ var testCaseCount = 0
 var testCaseNumber = 0
 
 func main() {
-	content, err := ioutil.ReadFile("test.txt")
+	content, err := ioutil.ReadFile("input.txt")
 	if err != nil {
 		log.Fatalf("Cannot read text file: %s", err)
 	}
