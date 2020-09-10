@@ -1,4 +1,4 @@
-Sample go script for calculation of sum of squares of integers by inputting test number cases with rules by neglecting negative numbers and input test case number
+Sample go script for calculation of sum of squares of integers by inputting test number cases with rules by neglecting negative numbers and set input test case number
 
 ## Requirements
 The project mainly requires:
